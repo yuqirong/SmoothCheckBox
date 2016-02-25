@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ##介绍 Introduction##
-**SmoothCheckBox** - 一款动感的CheckBox。(A dynamic checkBox.)
+**SmoothCheckBox** - 一款动感的CheckBox。(A dynamic checkbox.)
 
 ##截图 Screenshot##
 在gif中看上去有卡顿感，但在真机调试中很流畅。(In the gif appears to have felt, but in the real machine debugging very smooth.)
