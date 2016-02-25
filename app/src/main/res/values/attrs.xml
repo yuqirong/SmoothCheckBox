@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmoothCheckBox">
+        <!-- 动画持续时间 -->
+        <attr name="duration" format="integer"></attr>
+        <attr name="strikeWidth" format="dimension|reference"></attr>
+        <attr name="borderColor" format="color|reference"></attr>
+        <attr name="trimColor" format="color|reference"></attr>
+        <attr name="tickColor" format="color|reference"></attr>
+        <attr name="tickWidth" format="dimension|reference"></attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <com.yuqirong.smoothcheckbox.view.SmoothCheckBox
+            android:id="@+id/smoothCheckBox"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:borderColor="#9e9e9e"
+            app:tickWidth="4dp" />
+
+        <com.yuqirong.smoothcheckbox.view.SmoothCheckBox
+            android:id="@+id/smoothCheckBox2"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:borderColor="@android:color/holo_green_light"
+            app:duration="500"
+            app:tickWidth="4dp"
+            app:trimColor="#e51c23" />
+
+        <com.yuqirong.smoothcheckbox.view.SmoothCheckBox
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:borderColor="@android:color/holo_green_light"
+            app:duration="500"
+            app:tickColor="#4db6ac"
+            app:tickWidth="4dp"
+            app:trimColor="#3f51b5" />
+
+        <com.yuqirong.smoothcheckbox.view.SmoothCheckBox
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:borderColor="#004d40"
+            app:duration="500"
+            app:tickWidth="4dp"
+            app:trimColor="#009688" />
+
+        <com.yuqirong.smoothcheckbox.view.SmoothCheckBox
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:borderColor="#e65100"
+            app:duration="500"
+            app:tickWidth="4dp"
+            app:trimColor="#ffeb3b" />
+
+    </LinearLayout>
+</RelativeLayout>
