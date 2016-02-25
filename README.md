@@ -8,7 +8,7 @@
 ##截图 Screenshot##
 在gif中看上去有卡顿感，但在真机调试中很流畅。(In the gif appears to have felt, but in the real machine debugging very smooth.)
 
-![screenshot_gif](https://github.com/yuqirong/SmoothCheckBox/blob/master/screenshots/20151213140251.gif)
+![screenshot_gif](https://github.com/yuqirong/SmoothCheckBox/blob/master/screenshots/20160225212053.gif)
 
 ##下载 Demo Download##
 [Download](https://github.com/yuqirong/SmoothCheckBox/blob/master/screenshots/app-debug-unaligned.apk)
@@ -53,11 +53,11 @@
 | Name          | format        | Description |
 | ------------- |:-------------:| -----------:|
 | duration      | integer       | 动画持续时间(Anime Duration) |
-| strikeWidth     | dimension\|reference      |   边框宽度(Border Width) |
-| borderColor | color\|reference     |    边框颜色(Border Color) |
-| trimColor | color\|reference     |    CheckBox选中的颜色(Selected Color) |
-| tickColor | color\|reference     |    对勾的颜色(Tick Color) |
-| tickWidth | dimension\|reference      |    对勾的宽度(Tick Width) |
+| strikeWidth     | dimension\|reference      | 边框宽度(Border Width) |
+| borderColor | color\|reference     | 边框颜色(Border Color) |
+| trimColor | color\|reference     | CheckBox选中的颜色(Selected Color) |
+| tickColor | color\|reference     | 对勾的颜色(Tick Color) |
+| tickWidth | dimension\|reference   | 对勾的宽度(Tick Width) |
 
 ##致谢 Thanks##
 Inspired by
