@@ -69,7 +69,7 @@ Inspired by
 
 电子邮箱 Email：<yqr271228943@gmail.com>
 
-If you have any questions or want to contact me,you can also leave a message in [Issues](https://github.com/yuqirong/DragGridView/issues).
+If you have any questions or want to contact me,you can also leave a message in [Issues](https://github.com/yuqirong/SmoothCheckBox/issues).
 
 ##开源许可证 License##
 
